@@ -1,0 +1,26 @@
+_repo: The-Arctic-Queen_17568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: Poem dedicated to Elisha Kent Kane, Commander of the Grinnell expedition
+  in search of Sir John Franklin.
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Franklin, John, 1786-1847 -- Poetry'
+title: The Arctic Queen
+url: http://www.gutenberg.org/ebooks/17568
